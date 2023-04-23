@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c926a7d9-d9f1-4f6a-bb36-115a72afc07f"
+      }
+    },
+    "owner": "buraklyci"
   }
 }
